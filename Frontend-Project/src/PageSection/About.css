@@ -1,0 +1,79 @@
+.about-us-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: #f5f5f5;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  color: #008cba;
+}
+
+.description {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.thank-you {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 50px;
+  text-align: center;
+  color: #008cba;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #008cba;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.sharing-icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.sharing-icons button {
+  margin-right: 10px;
+  font-size: 1.2rem; /* Increase the font size of the button */
+  padding: 10px 20px; /* Increase the padding of the button */
+}
+
+/* Styles for Facebook button */
+.facebook-icon {
+  background-color: #3b5998;
+}
+
+.facebook-icon i {
+  color: #fff;
+}
+
+/* Styles for Twitter button */
+.twitter-icon {
+  background-color: #1da1f2;
+}
+
+.twitter-icon i {
+  color: #fff;
+}
+
+/* Styles for LinkedIn button */
+.linkedin-icon {
+  background-color: #0077b5;
+}
+
+.linkedin-icon i {
+  color: #fff;
+}
+
+/* CSS Styling for About Page*/
