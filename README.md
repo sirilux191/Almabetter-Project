@@ -14,7 +14,7 @@ The Almabetter Project is a web application called Resume Builder, developed as 
 
 To utilize the Almabetter Resume Builder, follow these steps:
 
-1. Visit the Almabetter Project Resume Builder website.
+1. Visit the Almabetter Project Resume Builder website -> [ResumeBuilder](https://resumebuilder.sirilux.in)
 2. Select a template that aligns with your preferences and desired style.
 3. Fill in your personal details, including education, work experience, skills, and achievements.
 4. Utilize the preview function to review and make any necessary adjustments to your resume.
